@@ -1,0 +1,14 @@
+C:\PRACTICAS PROGRA 1\LABORATORIO 2\Operaciones Lógicas\Operaciones Logicas\Operaciones Logicas\bin\Debug\net8.0\Operaciones Logicas.exe
+C:\PRACTICAS PROGRA 1\LABORATORIO 2\Operaciones Lógicas\Operaciones Logicas\Operaciones Logicas\bin\Debug\net8.0\Operaciones Logicas.deps.json
+C:\PRACTICAS PROGRA 1\LABORATORIO 2\Operaciones Lógicas\Operaciones Logicas\Operaciones Logicas\bin\Debug\net8.0\Operaciones Logicas.runtimeconfig.json
+C:\PRACTICAS PROGRA 1\LABORATORIO 2\Operaciones Lógicas\Operaciones Logicas\Operaciones Logicas\bin\Debug\net8.0\Operaciones Logicas.dll
+C:\PRACTICAS PROGRA 1\LABORATORIO 2\Operaciones Lógicas\Operaciones Logicas\Operaciones Logicas\bin\Debug\net8.0\Operaciones Logicas.pdb
+C:\PRACTICAS PROGRA 1\LABORATORIO 2\Operaciones Lógicas\Operaciones Logicas\Operaciones Logicas\obj\Debug\net8.0\Operaciones Logicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRACTICAS PROGRA 1\LABORATORIO 2\Operaciones Lógicas\Operaciones Logicas\Operaciones Logicas\obj\Debug\net8.0\Operaciones Logicas.AssemblyInfoInputs.cache
+C:\PRACTICAS PROGRA 1\LABORATORIO 2\Operaciones Lógicas\Operaciones Logicas\Operaciones Logicas\obj\Debug\net8.0\Operaciones Logicas.AssemblyInfo.cs
+C:\PRACTICAS PROGRA 1\LABORATORIO 2\Operaciones Lógicas\Operaciones Logicas\Operaciones Logicas\obj\Debug\net8.0\Operaciones Logicas.csproj.CoreCompileInputs.cache
+C:\PRACTICAS PROGRA 1\LABORATORIO 2\Operaciones Lógicas\Operaciones Logicas\Operaciones Logicas\obj\Debug\net8.0\Operaciones Logicas.dll
+C:\PRACTICAS PROGRA 1\LABORATORIO 2\Operaciones Lógicas\Operaciones Logicas\Operaciones Logicas\obj\Debug\net8.0\refint\Operaciones Logicas.dll
+C:\PRACTICAS PROGRA 1\LABORATORIO 2\Operaciones Lógicas\Operaciones Logicas\Operaciones Logicas\obj\Debug\net8.0\Operaciones Logicas.pdb
+C:\PRACTICAS PROGRA 1\LABORATORIO 2\Operaciones Lógicas\Operaciones Logicas\Operaciones Logicas\obj\Debug\net8.0\Operaciones Logicas.genruntimeconfig.cache
+C:\PRACTICAS PROGRA 1\LABORATORIO 2\Operaciones Lógicas\Operaciones Logicas\Operaciones Logicas\obj\Debug\net8.0\ref\Operaciones Logicas.dll
